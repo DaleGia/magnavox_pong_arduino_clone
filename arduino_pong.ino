@@ -366,15 +366,6 @@ void loop()
 
      TV.delay_frame(1);
              delay(5);  // Increase or decrease this to change game speed.
-
-
-
   }
 }
-		
-		
-
-
-		
-
 
